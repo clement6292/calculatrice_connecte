@@ -1,8 +1,9 @@
-import React from "react";
-import Calculator from "./components/Calculator";
+
+import './App.css'
+import Calculator from './components/Calculator';
 
 function App() {
-  return <Calculator />;
+  return <Calculator />
 }
 
-export default App;
+export default App
